@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o Cadu 👋🏽
 
-<!--
-**caduserra/caduserra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor full stack movido pela paixão por pessoas e tecnologia. Criativo e curioso, gosto de transformar ideias em soluções digitais com impacto real, sempre buscando equilíbrio entre inovação e eficiência.
 
-Here are some ideas to get you started:
+🌐 Stack principal: React, Tailwind, Node.js, Express, PostgreSQL, Prisma  
+🔐 Autenticação: JWT  
+🚀 Deploy: Vercel (front), Render/Railway (back)  
+⚙️ CI/CD: GitHub Actions  
+🧠 Explorando: Machine Learning & Gêmeos Digitais  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Acredito na força da colaboração, da liderança empática e na resolução inteligente de problemas.
+
+🔗 Me encontre:
+- [LinkedIn](https://www.linkedin.com/in/cadu-serra)
+- [Portfólio](https://github.com/caduserra)
