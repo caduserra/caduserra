@@ -1,15 +1,53 @@
 # Olá, eu sou o Cadu 👋🏽
 
-Sou um desenvolvedor full stack movido pela paixão por pessoas e tecnologia. Criativo e curioso, gosto de transformar ideias em soluções digitais com impacto real, sempre buscando equilíbrio entre inovação e eficiência.
+Sou um **desenvolvedor full stack** movido pela paixão por pessoas e tecnologia.  
+Criativo e curioso, gosto de transformar ideias em **soluções digitais com impacto real**, sempre buscando equilíbrio entre **inovação e eficiência**.
 
-🌐 Stack principal: React, Tailwind, Node.js, Express, PostgreSQL, Prisma  
-🔐 Autenticação: JWT  
-🚀 Deploy: Vercel (front), Render/Railway (back)  
-⚙️ CI/CD: GitHub Actions  
-🧠 Explorando: Machine Learning & Gêmeos Digitais  
+---
 
-> Acredito na força da colaboração, da liderança empática e na resolução inteligente de problemas.
+## 🌐 Stack principal
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/>
+</p>
 
-🔗 Me encontre:
-- [LinkedIn](https://www.linkedin.com/in/cadu-serra)
-- [Portfólio](https://github.com/caduserra)
+---
+
+## 🔐 Autenticação
+- JWT (JSON Web Tokens)
+
+## 🚀 Deploy
+- Frontend: Vercel  
+- Backend: Render / Railway
+
+## ⚙️ CI/CD
+- GitHub Actions
+
+## 🧠 Explorando
+- Machine Learning  
+- Gêmeos Digitais  
+
+---
+
+> Acredito na força da **colaboração**, da **liderança empática** e na **resolução inteligente de problemas**.
+
+---
+
+## 🔗 Me encontre
+
+<p>
+  <a href="https://www.linkedin.com/in/cadu-serra" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="25" height="25"/> LinkedIn
+  </a>
+</p>
+<p>
+  <a href="https://github.com/caduserra" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25" height="25"/> Portfólio
+  </a>
+</p>
