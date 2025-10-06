@@ -1,11 +1,12 @@
 # Olá, eu sou o Cadu 👋🏽
 
-Sou um **desenvolvedor full stack** movido pela paixão por pessoas e tecnologia.  
-Criativo e curioso, gosto de transformar ideias em **soluções digitais com impacto real**, sempre buscando equilíbrio entre **inovação e eficiência**.
+Sou um desenvolvedor full stack movido pela paixão por pessoas e tecnologia.  
+Criativo e curioso, gosto de transformar ideias em soluções digitais com impacto real, sempre buscando equilíbrio entre inovação e eficiência.
 
 ---
 
-## 🌐 Stack principal
+## 🌐 Stack & Tecnologias
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -17,19 +18,16 @@ Criativo e curioso, gosto de transformar ideias em **soluções digitais com imp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/>
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+</p>
+
 ---
 
-## 🔐 Autenticação
-- JWT (JSON Web Tokens)
-
-## 🚀 Deploy
-- Frontend: Vercel  
-- Backend: Render / Railway
-
-## ⚙️ CI/CD
-- GitHub Actions
-
-## 🧠 Explorando
+## 🧠 Explorações Atuais
 - Machine Learning  
 - Gêmeos Digitais  
 
@@ -39,15 +37,23 @@ Criativo e curioso, gosto de transformar ideias em **soluções digitais com imp
 
 ---
 
-## 🔗 Me encontre
+## 🔗 Contato & Portfólio
 
 <p>
   <a href="https://www.linkedin.com/in/cadu-serra" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="25" height="25"/> LinkedIn
   </a>
 </p>
+
 <p>
   <a href="https://github.com/caduserra" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25" height="25"/> Portfólio
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25" height="25"/> GitHub
   </a>
+</p>
+
+---
+
+## 📊 GitHub Stats (opcional)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caduserra&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
