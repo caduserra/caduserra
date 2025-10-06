@@ -1,4 +1,5 @@
-# Olá, eu sou o Cadu 👋🏽
+# Hello, World! 👋🏽  
+Eu sou o Cadu, desenvolvedor full stack transformando café em código e ideias em soluções digitais.
 
 Sou um desenvolvedor full stack movido pela paixão por pessoas e tecnologia.  
 Criativo e curioso, gosto de transformar ideias em soluções digitais com impacto real, sempre buscando equilíbrio entre inovação e eficiência.
